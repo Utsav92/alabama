@@ -1,0 +1,13 @@
+{
+  "enabledPlugins": {
+    "touchdesigner@touchdesigner-mcp": true
+  },
+  "extraKnownMarketplaces": {
+    "touchdesigner-mcp": {
+      "source": {
+        "source": "github",
+        "repo": "8beeeaaat/touchdesigner-mcp"
+      }
+    }
+  }
+}
